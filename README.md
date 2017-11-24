@@ -3,7 +3,7 @@ Hi! My name is Ryan. I'm a high school student, and I'm interested in Python.
 
 WHAT IS THIS?
 This is a game called Lights Out. It was originally released in 1995 by Tiger Electronics.
-I built this program virtually from scratch in around two weeks (probably around 15 hours of coding.)
+I built this program virtually from scratch in around two weeks (probably around 24 hours of coding.)
 
 TO RUN:
 Download this folder and place it into the 'Downloads' folder -- C:\Users\(yourname)\Downloads\LightsOut.
